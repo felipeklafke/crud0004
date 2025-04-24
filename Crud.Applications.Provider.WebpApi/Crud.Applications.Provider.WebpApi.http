@@ -1,0 +1,6 @@
+@Crud.Applications.Provider.WebpApi_HostAddress = http://localhost:5260
+
+GET {{Crud.Applications.Provider.WebpApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
